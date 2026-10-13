@@ -69,7 +69,7 @@ export class ListagemPokemon {
       ),
     ),
     {
-      initialValue: null,
+      initialValue: [],
     },
   );
 
